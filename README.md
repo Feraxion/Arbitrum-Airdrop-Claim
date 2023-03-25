@@ -11,12 +11,12 @@ This script automates the process of claiming tokens from an Ethereum-based toke
 
 1. Create a `.env` file in the root directory and add your wallet private keys as environment variables:
 
-PRIVATE_KEY_1=your_private_key_here
+  PRIVATE_KEY_1=your_private_key_here
 
-PRIVATE_KEY_2=your_private_key_here
+  PRIVATE_KEY_2=your_private_key_here
 
 
-Add more private keys as needed.
+  Add more private keys as needed.
 
 2. Update the following variables in the `claimMultiple.js` script:
 
